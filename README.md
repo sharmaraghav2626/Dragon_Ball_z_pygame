@@ -14,3 +14,27 @@ destroy the obstacles.Score will continously increased and gain a bonus of 10 wh
  
 # How to Play 
  Run main.py to play this amaizing game.
+
+
+#PREVIEW
+
+
+                                                                     
+<p align="center">
+  <img src="./UI/home.JPG" width="450" height="300">
+</p>
+                                                                 
+                                  
+<p align="center">
+  <img src="./UI/1.JPG" width="450" height="300">
+</p>
+
+
+<p align="center">
+  <img src="./UI/2.JPG" width="450" height="300">
+</p>
+
+<p align="center">
+  <img src="./UI/coint.JPG" width="450" height="300">
+</p>
+
